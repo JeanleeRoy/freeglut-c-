@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
     glutInitWindowPosition(0, 0);
     glutInitWindowSize(500, 300);
 
-    glutCreateWindow("Window 1");
+    glutCreateWindow("Window");
     glutDisplayFunc(display);
 
     glutMainLoop();
