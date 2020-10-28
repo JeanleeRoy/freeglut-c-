@@ -43,3 +43,7 @@ After run the command you'll have a executable `a.exe`. You only need to run it 
 ```
 a.exe
 ```
+
+And that's all, hopefully you can see the window produced by the program.
+
+![screenshoot](https://raw.githubusercontent.com/JeanleeRoy/images/master/support/freeglut/screenshot.png)
