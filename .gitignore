@@ -1,0 +1,12 @@
+*.o
+*.x
+*.out
+*.exe
+
+# Clion
+.idea/*
+.idea/
+
+# CMake
+cmake-build-*/
+CMakeLists.txt
