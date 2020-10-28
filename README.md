@@ -23,3 +23,23 @@ But if you are more visual, the following video may help you to manage the files
 https://www.youtube.com/watch?v=AUFZnA3lW_Q&t=288s
 
 I hope those links can help you.
+
+## Run the code
+
+At this point you may have all the dependencies from the Freeglut library in the correct way. So let's start with the code.
+
+Cloning this repository you will able to run the main.cpp file with the following command in your terminal:
+
+```
+g++ main.cpp -lfreeglut -lopengl32
+```
+
+Note that to run this command you must be located in the root of the project folder (inside your terminal) otherwise you will get an error.
+
+The `-lfreeglut` and`-lopengl32` are the dependencies that whill be linked by the compiler and use the Freeglut properly.
+
+After run the command you'll have a executable `a.exe`. You only need to run it with the command
+
+```
+a.exe
+```
