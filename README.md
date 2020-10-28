@@ -48,6 +48,6 @@ And that's all, hopefully, you can see the window produced by the program.
 
 ![screenshoot](https://raw.githubusercontent.com/JeanleeRoy/images/master/support/freeglut/screenshot.png)
 
-Now you can make amazing projects with some graphic details, just be sure to keep learning about Freeglut and its various applications.
+As you can see this is a very basic example of Freeglut, but now you can make amazing projects with some graphic details, just be sure to keep learning about Freeglut and its different applications.
 
 Successes
